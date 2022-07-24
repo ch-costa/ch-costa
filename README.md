@@ -22,4 +22,10 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus)
 
-<a href="https://www.ch-costa.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ch-costa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-costa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.ch-costa.com/">
+  <img
+    height="137px"
+    src="https://github-readme-stats.vercel.app/api?username=ch-costa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,FF0078,ea6161,ffc64d,fffc4d&theme=graywhite" /><!-- wi*quL3fcV --><img
+    height="137px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-costa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,fffc4d,4dfcff,2bafef&theme=graywhite"/>
+</a>
