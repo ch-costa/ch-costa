@@ -3,11 +3,11 @@
   <h3 align="center">Systems analyst and developer</h3>
 <!-- </div> -->
 
-[![](https://raw.githubusercontent.com/ch-costa/ch-costa/master/profile.gif)](https://www.ch-costa.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/ch-costa/ch-costa/master/profile.gif)](https://www.ch-costa.com/)
 
 ### Languages
 
-![Java](https://img.shields.io/badge/-Java-121212?&logo=openJdk)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openJdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoft-sql-server&logoColor=B74729)
